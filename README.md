@@ -1,1 +1,1 @@
-# g-m-l-projelerim
+# gömülü sistemler projelerim
